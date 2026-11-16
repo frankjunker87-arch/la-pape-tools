@@ -11,3 +11,7 @@ Herramientas y programas utilitarios de **La Pape**.
 ## Uso
 
 Cada programa vive en su carpeta dentro de `programs/`, listo para descargarse y usarse en el equipo de trabajo de La Pape.
+
+## Contribuidores
+
+Contribución preparada en colaboración por **psehgaft**, **san985tos**, **frankjunker87-arch** y **tec-girl**.
